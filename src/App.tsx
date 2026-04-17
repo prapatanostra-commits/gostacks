@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { AppConfig, UserSession, showConnect, openContractCall } from '@stacks/connect';
-import { StacksTestnet } from '@stacks/network';
+import { STACKS_MAINNET } from '@stacks/network';
 import './App.css'; // Kamu bisa gunakan CSS bawaan Vite atau modifikasi sendiri
 
 // Inisialisasi Konfigurasi Aplikasi Stacks
@@ -58,7 +58,7 @@ function App() {
     const contractName = 'gostacks-core-v1';
     const functionName = 'record-taps';
 
-    const network = new StacksTestnet(); // Ganti ke StacksMainnet() saat production
+    const network = STACKS_MAINNET; // Ganti ke StacksMainnet() saat production
 
     await openContractCall({
       network,
