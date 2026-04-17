@@ -1,4 +1,4 @@
-;; ChainTap - on-chain tapping game
+;; gostacks - on-chain tapping game
 ;; Unlimited taps, all recorded on-chain
 
 ;; Global total taps
@@ -20,7 +20,7 @@
 (define-data-var top-10 {who: principal, taps: uint} {who: tx-sender, taps: u0})
 
 ;; Main tap function
-(define-public (tap)
+(define-public (go)
   (let
     (
       (caller tx-sender)
