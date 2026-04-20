@@ -196,3 +196,4 @@
 (define-read-only (ping-118) (ok true))
 (define-read-only (ping-130) (ok true))
 (define-read-only (ping-164) (ok true))
+(define-read-only (ping-172) (ok true))
