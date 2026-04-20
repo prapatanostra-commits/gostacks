@@ -45,3 +45,4 @@
 (define-read-only (ping-154) (ok true))
 (define-read-only (get-helper-195) (ok u195))
 (define-read-only (ping-202) (ok true))
+(define-read-only (get-helper-205) (ok u205))
