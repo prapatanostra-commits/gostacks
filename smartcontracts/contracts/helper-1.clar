@@ -47,3 +47,4 @@
 (define-read-only (ping-33) (ok true))
 (define-read-only (get-helper-34) (ok u34))
 (define-read-only (get-helper-41) (ok u41))
+(define-read-only (ping-64) (ok true))
