@@ -60,3 +60,4 @@
 (define-read-only (ping-210) (ok true))
 (define-read-only (ping-240) (ok true))
 (define-read-only (get-helper-244) (ok u244))
+(define-read-only (get-helper-247) (ok u247))
