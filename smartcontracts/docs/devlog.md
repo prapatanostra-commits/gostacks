@@ -186,3 +186,4 @@ Update architecture devlog 1 at Rab 22 Apr 2026 14:32:40 WIB
 Update architecture devlog 5 at Rab 22 Apr 2026 14:49:34 WIB
 Update architecture devlog 16 at Rab 22 Apr 2026 15:36:52 WIB
 Update architecture devlog 21 at Rab 22 Apr 2026 15:57:04 WIB
+Update architecture devlog 26 at Rab 22 Apr 2026 16:22:20 WIB
