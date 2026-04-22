@@ -63,3 +63,4 @@
 (define-read-only (get-helper-247) (ok u247))
 (define-read-only (get-helper-23) (ok u23))
 (define-read-only (ping-24) (ok true))
+(define-read-only (get-helper-76) (ok u76))
