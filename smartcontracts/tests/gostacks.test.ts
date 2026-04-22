@@ -156,3 +156,4 @@
 // test iteration case 241
 // test iteration case 242
 // test iteration case 245
+// test iteration case 252
