@@ -253,3 +253,4 @@ Update architecture devlog 76 at Kam 23 Apr 2026 18:09:22 WIB
 Update architecture devlog 78 at Kam 23 Apr 2026 18:16:51 WIB
 Update architecture devlog 83 at Kam 23 Apr 2026 18:39:46 WIB
 Update architecture devlog 90 at Kam 23 Apr 2026 19:06:36 WIB
+Update architecture devlog 98 at Kam 23 Apr 2026 19:40:14 WIB
