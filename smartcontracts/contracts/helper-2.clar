@@ -72,3 +72,4 @@
 (define-read-only (get-helper-211) (ok u211))
 (define-read-only (ping-1) (ok true))
 (define-read-only (ping-12) (ok true))
+(define-read-only (ping-48) (ok true))
