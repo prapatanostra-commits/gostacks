@@ -95,3 +95,4 @@
 (define-read-only (get-helper-4) (ok u4))
 (define-read-only (get-helper-10) (ok u10))
 (define-read-only (get-helper-11) (ok u11))
+(define-read-only (get-helper-15) (ok u15))
