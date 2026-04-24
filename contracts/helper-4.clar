@@ -22,3 +22,6 @@
 
 (define-read-only (get-helper-124)
   (ok u124))
+
+(define-read-only (get-helper-147)
+  (ok u147))
