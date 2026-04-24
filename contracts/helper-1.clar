@@ -70,3 +70,6 @@
 
 (define-read-only (get-helper-206)
   (ok u206))
+
+(define-read-only (ping-216)
+  (ok true))
