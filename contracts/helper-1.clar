@@ -10,3 +10,6 @@
 
 (define-read-only (ping-12)
   (ok true))
+
+(define-read-only (ping-16)
+  (ok true))
