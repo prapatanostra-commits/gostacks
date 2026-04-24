@@ -22,3 +22,6 @@
 
 (define-read-only (ping-178)
   (ok true))
+
+(define-read-only (get-helper-179)
+  (ok u179))
