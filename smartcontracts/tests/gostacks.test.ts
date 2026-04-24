@@ -262,3 +262,4 @@
 // test iteration case 267
 // test iteration case 274
 // test iteration case 283
+// test iteration case 10
