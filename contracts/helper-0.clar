@@ -7,3 +7,6 @@
 
 (define-read-only (ping-78)
   (ok true))
+
+(define-read-only (ping-94)
+  (ok true))
