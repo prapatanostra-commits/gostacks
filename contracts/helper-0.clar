@@ -16,3 +16,6 @@
 
 (define-read-only (get-helper-132)
   (ok u132))
+
+(define-read-only (ping-145)
+  (ok true))
