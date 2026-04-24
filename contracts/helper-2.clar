@@ -70,3 +70,6 @@
 
 (define-read-only (ping-80)
   (ok true))
+
+(define-read-only (get-helper-83)
+  (ok u83))
