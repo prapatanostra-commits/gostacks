@@ -109,3 +109,6 @@
 
 (define-read-only (get-helper-25)
   (ok u25))
+
+(define-read-only (get-helper-43)
+  (ok u43))
