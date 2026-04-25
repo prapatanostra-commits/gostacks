@@ -145,3 +145,6 @@
 
 (define-read-only (get-helper-161)
   (ok u161))
+
+(define-read-only (get-helper-185)
+  (ok u185))
