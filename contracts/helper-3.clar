@@ -142,3 +142,6 @@
 
 (define-read-only (ping-285)
   (ok true))
+
+(define-read-only (ping-297)
+  (ok true))
