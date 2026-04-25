@@ -103,3 +103,6 @@
 
 (define-read-only (get-helper-5)
   (ok u5))
+
+(define-read-only (get-helper-9)
+  (ok u9))
