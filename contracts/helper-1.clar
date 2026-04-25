@@ -121,3 +121,6 @@
 
 (define-read-only (get-helper-24)
   (ok u24))
+
+(define-read-only (ping-47)
+  (ok true))
