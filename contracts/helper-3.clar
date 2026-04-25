@@ -70,3 +70,6 @@
 
 (define-read-only (ping-132)
   (ok true))
+
+(define-read-only (get-helper-137)
+  (ok u137))
