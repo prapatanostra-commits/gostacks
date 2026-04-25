@@ -82,3 +82,6 @@
 
 (define-read-only (get-helper-71)
   (ok u71))
+
+(define-read-only (get-helper-84)
+  (ok u84))
