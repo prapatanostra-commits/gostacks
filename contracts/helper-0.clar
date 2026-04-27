@@ -142,3 +142,6 @@
 
 (define-read-only (get-helper-1)
   (ok u1))
+
+(define-read-only (get-helper-2)
+  (ok u2))
