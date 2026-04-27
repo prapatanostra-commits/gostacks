@@ -163,3 +163,6 @@
 
 (define-read-only (get-helper-12)
   (ok u12))
+
+(define-read-only (ping-31)
+  (ok true))
