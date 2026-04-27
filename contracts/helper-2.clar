@@ -193,3 +193,6 @@
 
 (define-read-only (ping-45)
   (ok true))
+
+(define-read-only (get-helper-50)
+  (ok u50))
