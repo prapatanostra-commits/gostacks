@@ -208,3 +208,6 @@
 
 (define-read-only (get-helper-11)
   (ok u11))
+
+(define-read-only (get-helper-18)
+  (ok u18))
