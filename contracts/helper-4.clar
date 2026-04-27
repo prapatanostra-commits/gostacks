@@ -145,3 +145,6 @@
 
 (define-read-only (get-helper-290)
   (ok u290))
+
+(define-read-only (ping-11)
+  (ok true))
