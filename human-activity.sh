@@ -4,36 +4,36 @@ TOTAL=300
 COUNT=0
 
 MESSAGES=(
-"feat(contract): add helper read-only function for internal query"
+"feat(contract): introduce read-only helper for internal queries"
 "fix(contract): correct validation logic in helper function"
-"refactor(core): simplify contract execution flow"
-"docs(devlog): record update on architecture adjustment"
-"chore(repo): clean unused helper contracts"
-"feat(api): improve contract interaction layer handling"
-"fix(runtime): handle unexpected state condition in contract call"
-"refactor(utils): reduce redundancy in helper utilities"
-"docs(readme): update project overview and usage notes"
-"feat(contract): extend contract interface with new endpoint"
-"fix(frontend): resolve minor rendering inconsistency"
+"refactor(core): streamline contract execution flow"
+"docs(devlog): document architecture update"
+"chore(repo): remove unused helper contracts"
+"feat(api): enhance contract interaction handling"
+"fix(runtime): handle unexpected state conditions in contract calls"
+"refactor(utils): eliminate redundancy in helper utilities"
+"docs(readme): revise project overview and usage guidelines"
+"feat(contract): extend contract interface with additional endpoint"
+"fix(frontend): resolve rendering inconsistency"
 "refactor(structure): reorganize module hierarchy for clarity"
-"chore(config): sync configuration with latest changes"
-"feat(test): add additional test coverage for contract logic"
-"fix(edge-case): prevent failure on undefined parameter input"
-"docs(architecture): improve explanation of module interaction"
-"refactor(naming): standardize variable and function naming"
-"feat(system): introduce lightweight helper abstraction"
-"fix(state): correct incorrect state mutation handling"
-"docs(dev): refine developer notes for better clarity"
-"feat(contract): enhance lifecycle handling logic"
+"chore(config): align configuration with recent updates"
+"feat(test): expand test coverage for contract logic"
+"fix(edge-case): handle undefined parameter input safely"
+"docs(architecture): clarify module interaction design"
+"refactor(naming): standardize naming conventions"
+"feat(system): introduce lightweight abstraction layer"
+"fix(state): correct state mutation handling"
+"docs(dev): improve developer documentation clarity"
+"feat(contract): enhance contract lifecycle management"
 "refactor(codebase): improve maintainability across modules"
 "fix(contract): correct return structure in read-only function"
-"docs(module): expand documentation for contract modules"
+"docs(module): expand module documentation"
 "chore(cleanup): remove redundant logs and comments"
-"feat(core): introduce new logic layer for processing"
-"fix(api): resolve mismatch in contract response handling"
-"refactor(flow): optimize execution path for performance"
-"docs(update): improve internal documentation structure"
-"feat(integration): enhance API-contract communication"
+"feat(core): implement new processing logic layer"
+"fix(api): resolve response handling mismatch"
+"refactor(flow): optimize execution path"
+"docs(update): restructure internal documentation"
+"feat(integration): improve API and contract communication"
 )
 
 while [ $COUNT -lt $TOTAL ]
@@ -84,8 +84,8 @@ do
 
   git push
 
-  # 🔥 DELAY DIPERCEPAT → 2–4 menit (120–240 detik)
-  SLEEP=$(( (RANDOM % 120) + 120 ))
+  # ⏱️ DELAY 1–2 menit (60–120 detik)
+  SLEEP=$(( (RANDOM % 60) + 60 ))
 
   echo "Commit selesai. Menunggu $SLEEP detik..."
   sleep $SLEEP
