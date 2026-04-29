@@ -400,3 +400,6 @@
 
 (define-read-only (get-helper-109)
   (ok u109))
+
+(define-read-only (get-helper-148)
+  (ok u148))
