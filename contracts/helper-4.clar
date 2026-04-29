@@ -346,3 +346,6 @@
 
 (define-read-only (get-helper-170)
   (ok u170))
+
+(define-read-only (ping-191)
+  (ok true))
