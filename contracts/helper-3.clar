@@ -358,3 +358,6 @@
 
 (define-read-only (get-helper-62)
   (ok u62))
+
+(define-read-only (ping-81)
+  (ok true))
