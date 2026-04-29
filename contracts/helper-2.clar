@@ -388,3 +388,6 @@
 
 (define-read-only (ping-67)
   (ok true))
+
+(define-read-only (get-helper-76)
+  (ok u76))
