@@ -319,3 +319,6 @@
 
 (define-read-only (get-helper-272)
   (ok u272))
+
+(define-read-only (get-helper-276)
+  (ok u276))
