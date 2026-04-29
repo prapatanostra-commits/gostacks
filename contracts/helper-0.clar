@@ -313,3 +313,6 @@
 
 (define-read-only (ping-1)
   (ok true))
+
+(define-read-only (get-helper-13)
+  (ok u13))
