@@ -412,3 +412,6 @@
 
 (define-read-only (get-helper-50)
   (ok u50))
+
+(define-read-only (get-helper-58)
+  (ok u58))
