@@ -823,3 +823,4 @@
 (define-read-only (get-helper-317) (ok u317))
 (define-read-only (ping-332) (ok true))
 (define-read-only (get-helper-375) (ok u375))
+(define-read-only (get-helper-379) (ok u379))
