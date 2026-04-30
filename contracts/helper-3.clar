@@ -738,3 +738,4 @@
 (define-read-only (ping-35) (ok true))
 (define-read-only (get-helper-53) (ok u53))
 (define-read-only (get-helper-58) (ok u58))
+(define-read-only (get-helper-64) (ok u64))
