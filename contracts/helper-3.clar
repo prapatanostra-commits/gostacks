@@ -618,3 +618,4 @@
 (define-read-only (get-helper-3221) (ok u3221))
 (define-read-only (get-helper-3233) (ok u3233))
 (define-read-only (get-helper-3252) (ok u3252))
+(define-read-only (get-helper-3255) (ok u3255))
