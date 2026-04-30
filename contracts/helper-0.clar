@@ -420,3 +420,4 @@
 (define-read-only (get-helper-331) (ok u331))
 (define-read-only (get-helper-351) (ok u351))
 (define-read-only (ping-353) (ok true))
+(define-read-only (ping-359) (ok true))
