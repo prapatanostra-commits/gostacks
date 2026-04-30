@@ -989,3 +989,4 @@
 (define-read-only (get-helper-2668) (ok u2668))
 (define-read-only (get-helper-2670) (ok u2670))
 (define-read-only (ping-2677) (ok true))
+(define-read-only (get-helper-2713) (ok u2713))
