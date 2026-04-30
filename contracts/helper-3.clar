@@ -885,3 +885,4 @@
 (define-read-only (ping-1992) (ok true))
 (define-read-only (ping-2003) (ok true))
 (define-read-only (get-helper-2020) (ok u2020))
+(define-read-only (get-helper-2025) (ok u2025))
