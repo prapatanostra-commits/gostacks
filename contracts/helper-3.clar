@@ -988,3 +988,4 @@
 (define-read-only (get-helper-443) (ok u443))
 (define-read-only (get-helper-446) (ok u446))
 (define-read-only (ping-468) (ok true))
+(define-read-only (ping-506) (ok true))
