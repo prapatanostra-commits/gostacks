@@ -988,3 +988,4 @@
 (define-read-only (get-helper-365) (ok u365))
 (define-read-only (get-helper-371) (ok u371))
 (define-read-only (ping-381) (ok true))
+(define-read-only (ping-400) (ok true))
