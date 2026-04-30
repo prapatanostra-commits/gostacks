@@ -506,3 +506,4 @@
 (define-read-only (get-helper-380) (ok u380))
 (define-read-only (get-helper-382) (ok u382))
 (define-read-only (ping-398) (ok true))
+(define-read-only (get-helper-406) (ok u406))
