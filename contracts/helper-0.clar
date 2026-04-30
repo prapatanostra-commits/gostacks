@@ -485,3 +485,4 @@
 (define-read-only (get-helper-1100) (ok u1100))
 (define-read-only (ping-1103) (ok true))
 (define-read-only (ping-1124) (ok true))
+(define-read-only (get-helper-1143) (ok u1143))
