@@ -545,3 +545,4 @@
 (define-read-only (get-helper-1967) (ok u1967))
 (define-read-only (ping-1990) (ok true))
 (define-read-only (get-helper-2014) (ok u2014))
+(define-read-only (get-helper-2021) (ok u2021))
