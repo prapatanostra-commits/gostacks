@@ -430,3 +430,6 @@
 
 (define-read-only (get-helper-281)
   (ok u281))
+
+(define-read-only (ping-300)
+  (ok true))
