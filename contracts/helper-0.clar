@@ -388,3 +388,6 @@
 
 (define-read-only (get-helper-295)
   (ok u295))
+
+(define-read-only (ping-3)
+  (ok true))
