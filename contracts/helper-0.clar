@@ -400,3 +400,4 @@
 
 (define-read-only (get-helper-56)
   (ok u56))
+(define-read-only (ping-11) (ok true))
