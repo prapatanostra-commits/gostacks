@@ -859,3 +859,4 @@
 (define-read-only (get-helper-1635) (ok u1635))
 (define-read-only (get-helper-1658) (ok u1658))
 (define-read-only (get-helper-1670) (ok u1670))
+(define-read-only (get-helper-1694) (ok u1694))
