@@ -602,3 +602,4 @@
 (define-read-only (get-helper-2951) (ok u2951))
 (define-read-only (get-helper-2952) (ok u2952))
 (define-read-only (get-helper-2968) (ok u2968))
+(define-read-only (ping-2970) (ok true))
