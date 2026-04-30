@@ -552,3 +552,4 @@
 (define-read-only (ping-1410) (ok true))
 (define-read-only (ping-1411) (ok true))
 (define-read-only (ping-1419) (ok true))
+(define-read-only (ping-1437) (ok true))
