@@ -960,3 +960,4 @@
 (define-read-only (get-helper-3051) (ok u3051))
 (define-read-only (get-helper-3058) (ok u3058))
 (define-read-only (get-helper-3067) (ok u3067))
+(define-read-only (get-helper-3072) (ok u3072))
