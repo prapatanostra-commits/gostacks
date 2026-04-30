@@ -660,3 +660,4 @@
 // test case iteration 4306
 // test case iteration 4310
 // test case iteration 4317
+// test case iteration 4322
