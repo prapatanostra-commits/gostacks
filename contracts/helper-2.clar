@@ -973,3 +973,4 @@
 (define-read-only (ping-2473) (ok true))
 (define-read-only (ping-2476) (ok true))
 (define-read-only (get-helper-2492) (ok u2492))
+(define-read-only (get-helper-2495) (ok u2495))
