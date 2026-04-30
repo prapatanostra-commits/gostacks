@@ -401,3 +401,4 @@
 (define-read-only (get-helper-58) (ok u58))
 (define-read-only (get-helper-61) (ok u61))
 (define-read-only (get-helper-65) (ok u65))
+(define-read-only (ping-109) (ok true))
