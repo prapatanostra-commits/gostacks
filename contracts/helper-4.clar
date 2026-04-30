@@ -891,3 +891,4 @@
 (define-read-only (get-helper-1433) (ok u1433))
 (define-read-only (ping-1438) (ok true))
 (define-read-only (ping-1461) (ok true))
+(define-read-only (ping-1490) (ok true))
