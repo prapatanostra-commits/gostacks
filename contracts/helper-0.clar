@@ -428,3 +428,4 @@
 (define-read-only (ping-407) (ok true))
 (define-read-only (get-helper-442) (ok u442))
 (define-read-only (get-helper-448) (ok u448))
+(define-read-only (ping-465) (ok true))
