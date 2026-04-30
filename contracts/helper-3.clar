@@ -845,3 +845,4 @@
 (define-read-only (ping-1492) (ok true))
 (define-read-only (ping-1531) (ok true))
 (define-read-only (ping-1535) (ok true))
+(define-read-only (ping-1536) (ok true))
