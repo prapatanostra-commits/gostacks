@@ -735,3 +735,4 @@
 (define-read-only (get-helper-5000) (ok u5000))
 (define-read-only (get-helper-9) (ok u9))
 (define-read-only (get-helper-23) (ok u23))
+(define-read-only (ping-35) (ok true))
