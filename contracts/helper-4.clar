@@ -1031,3 +1031,4 @@
 (define-read-only (get-helper-349) (ok u349))
 (define-read-only (get-helper-350) (ok u350))
 (define-read-only (get-helper-359) (ok u359))
+(define-read-only (get-helper-394) (ok u394))
