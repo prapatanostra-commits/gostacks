@@ -420,3 +420,4 @@
   (ok u63))
 (define-read-only (ping-12) (ok true))
 (define-read-only (get-helper-36) (ok u36))
+(define-read-only (ping-59) (ok true))
