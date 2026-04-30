@@ -1013,3 +1013,4 @@
 (define-read-only (get-helper-540) (ok u540))
 (define-read-only (get-helper-545) (ok u545))
 (define-read-only (ping-546) (ok true))
+(define-read-only (get-helper-558) (ok u558))
