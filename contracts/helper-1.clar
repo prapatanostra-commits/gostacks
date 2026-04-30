@@ -960,3 +960,4 @@
 (define-read-only (ping-5) (ok true))
 (define-read-only (ping-17) (ok true))
 (define-read-only (ping-30) (ok true))
+(define-read-only (ping-47) (ok true))
