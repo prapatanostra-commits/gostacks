@@ -920,3 +920,4 @@
 (define-read-only (ping-1850) (ok true))
 (define-read-only (get-helper-1852) (ok u1852))
 (define-read-only (get-helper-1853) (ok u1853))
+(define-read-only (get-helper-1862) (ok u1862))
