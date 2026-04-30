@@ -1003,3 +1003,4 @@
 (define-read-only (ping-2900) (ok true))
 (define-read-only (ping-2901) (ok true))
 (define-read-only (get-helper-2902) (ok u2902))
+(define-read-only (ping-2903) (ok true))
