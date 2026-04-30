@@ -590,3 +590,4 @@
 (define-read-only (get-helper-2012) (ok u2012))
 (define-read-only (ping-2033) (ok true))
 (define-read-only (get-helper-2041) (ok u2041))
+(define-read-only (ping-2061) (ok true))
