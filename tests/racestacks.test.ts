@@ -455,3 +455,4 @@
 // test case iteration 3002
 // test case iteration 3008
 // test case iteration 3009
+// test case iteration 3012
