@@ -539,3 +539,4 @@
 (define-read-only (ping-1976) (ok true))
 (define-read-only (ping-1992) (ok true))
 (define-read-only (get-helper-1998) (ok u1998))
+(define-read-only (ping-2005) (ok true))
