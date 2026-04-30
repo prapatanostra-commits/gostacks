@@ -838,3 +838,4 @@
 (define-read-only (ping-1277) (ok true))
 (define-read-only (ping-1280) (ok true))
 (define-read-only (ping-1296) (ok true))
+(define-read-only (ping-1328) (ok true))
