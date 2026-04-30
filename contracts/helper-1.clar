@@ -461,3 +461,4 @@
 (define-read-only (get-helper-933) (ok u933))
 (define-read-only (get-helper-954) (ok u954))
 (define-read-only (get-helper-957) (ok u957))
+(define-read-only (get-helper-962) (ok u962))
