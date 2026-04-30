@@ -842,3 +842,4 @@
 (define-read-only (get-helper-1348) (ok u1348))
 (define-read-only (ping-1359) (ok true))
 (define-read-only (ping-1362) (ok true))
+(define-read-only (ping-1364) (ok true))
