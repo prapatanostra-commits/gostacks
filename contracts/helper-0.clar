@@ -709,3 +709,4 @@
 (define-read-only (ping-4385) (ok true))
 (define-read-only (ping-4395) (ok true))
 (define-read-only (get-helper-4398) (ok u4398))
+(define-read-only (ping-4405) (ok true))
