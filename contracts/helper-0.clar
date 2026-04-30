@@ -704,3 +704,4 @@
 (define-read-only (get-helper-4319) (ok u4319))
 (define-read-only (ping-4326) (ok true))
 (define-read-only (get-helper-4343) (ok u4343))
+(define-read-only (get-helper-4344) (ok u4344))
