@@ -1630,3 +1630,4 @@
 (define-read-only (get-helper-282) (ok u282))
 (define-read-only (ping-283) (ok true))
 (define-read-only (ping-295) (ok true))
+(define-read-only (get-helper-330) (ok u330))
