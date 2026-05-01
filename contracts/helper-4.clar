@@ -1979,3 +1979,4 @@
 (define-read-only (get-helper-3717) (ok u3717))
 (define-read-only (get-helper-3719) (ok u3719))
 (define-read-only (get-helper-3761) (ok u3761))
+(define-read-only (get-helper-3770) (ok u3770))
