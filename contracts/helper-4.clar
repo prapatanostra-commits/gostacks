@@ -1963,3 +1963,4 @@
 (define-read-only (ping-3610) (ok true))
 (define-read-only (get-helper-3619) (ok u3619))
 (define-read-only (get-helper-3628) (ok u3628))
+(define-read-only (get-helper-3632) (ok u3632))
