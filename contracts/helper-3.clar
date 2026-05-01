@@ -1742,3 +1742,4 @@
 (define-read-only (ping-2008) (ok true))
 (define-read-only (get-helper-2012) (ok u2012))
 (define-read-only (ping-2018) (ok true))
+(define-read-only (get-helper-2039) (ok u2039))
