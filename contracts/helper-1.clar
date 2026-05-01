@@ -1516,3 +1516,4 @@
 (define-read-only (ping-3003) (ok true))
 (define-read-only (get-helper-3033) (ok u3033))
 (define-read-only (get-helper-3044) (ok u3044))
+(define-read-only (get-helper-3047) (ok u3047))
