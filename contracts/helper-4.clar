@@ -2032,3 +2032,4 @@
 (define-read-only (get-helper-4374) (ok u4374))
 (define-read-only (ping-4376) (ok true))
 (define-read-only (get-helper-4378) (ok u4378))
+(define-read-only (get-helper-4391) (ok u4391))
