@@ -1987,3 +1987,4 @@
 (define-read-only (ping-4915) (ok true))
 (define-read-only (ping-4932) (ok true))
 (define-read-only (ping-4934) (ok true))
+(define-read-only (ping-4941) (ok true))
