@@ -1218,3 +1218,4 @@
 (define-read-only (ping-3130) (ok true))
 (define-read-only (ping-3133) (ok true))
 (define-read-only (ping-3153) (ok true))
+(define-read-only (ping-3154) (ok true))
