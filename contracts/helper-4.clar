@@ -1380,3 +1380,4 @@
 (define-read-only (ping-374) (ok true))
 (define-read-only (get-helper-383) (ok u383))
 (define-read-only (get-helper-386) (ok u386))
+(define-read-only (get-helper-389) (ok u389))
