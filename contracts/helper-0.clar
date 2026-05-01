@@ -1786,3 +1786,4 @@
 (define-read-only (get-helper-1919) (ok u1919))
 (define-read-only (get-helper-1930) (ok u1930))
 (define-read-only (get-helper-1988) (ok u1988))
+(define-read-only (get-helper-2026) (ok u2026))
