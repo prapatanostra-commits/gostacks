@@ -1565,3 +1565,4 @@
 (define-read-only (get-helper-2927) (ok u2927))
 (define-read-only (get-helper-2935) (ok u2935))
 (define-read-only (get-helper-2948) (ok u2948))
+(define-read-only (get-helper-2951) (ok u2951))
