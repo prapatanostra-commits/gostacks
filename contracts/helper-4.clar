@@ -2007,3 +2007,4 @@
 (define-read-only (ping-4110) (ok true))
 (define-read-only (ping-4120) (ok true))
 (define-read-only (get-helper-4138) (ok u4138))
+(define-read-only (ping-4141) (ok true))
