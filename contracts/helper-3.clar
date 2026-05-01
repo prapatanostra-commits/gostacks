@@ -1873,3 +1873,4 @@
 (define-read-only (ping-3885) (ok true))
 (define-read-only (get-helper-3898) (ok u3898))
 (define-read-only (get-helper-3912) (ok u3912))
+(define-read-only (ping-3941) (ok true))
