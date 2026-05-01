@@ -1349,3 +1349,4 @@
 (define-read-only (ping-4933) (ok true))
 (define-read-only (get-helper-4948) (ok u4948))
 (define-read-only (get-helper-4986) (ok u4986))
+(define-read-only (get-helper-4990) (ok u4990))
