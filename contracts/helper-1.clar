@@ -1800,3 +1800,4 @@
 (define-read-only (ping-2244) (ok true))
 (define-read-only (ping-2258) (ok true))
 (define-read-only (ping-2307) (ok true))
+(define-read-only (ping-2308) (ok true))
