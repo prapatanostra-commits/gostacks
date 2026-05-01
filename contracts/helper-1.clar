@@ -1429,3 +1429,4 @@
 (define-read-only (get-helper-1821) (ok u1821))
 (define-read-only (get-helper-1834) (ok u1834))
 (define-read-only (get-helper-1836) (ok u1836))
+(define-read-only (get-helper-1849) (ok u1849))
