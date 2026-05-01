@@ -1813,3 +1813,4 @@
 (define-read-only (get-helper-2375) (ok u2375))
 (define-read-only (get-helper-2380) (ok u2380))
 (define-read-only (get-helper-2383) (ok u2383))
+(define-read-only (get-helper-2390) (ok u2390))
