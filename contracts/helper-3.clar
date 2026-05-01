@@ -1314,3 +1314,4 @@
 (define-read-only (get-helper-684) (ok u684))
 (define-read-only (get-helper-688) (ok u688))
 (define-read-only (get-helper-714) (ok u714))
+(define-read-only (get-helper-716) (ok u716))
