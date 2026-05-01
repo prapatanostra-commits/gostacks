@@ -1455,3 +1455,4 @@
 (define-read-only (ping-1384) (ok true))
 (define-read-only (get-helper-1404) (ok u1404))
 (define-read-only (get-helper-1405) (ok u1405))
+(define-read-only (ping-1418) (ok true))
