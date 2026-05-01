@@ -2009,3 +2009,4 @@
 (define-read-only (get-helper-4138) (ok u4138))
 (define-read-only (ping-4141) (ok true))
 (define-read-only (get-helper-4143) (ok u4143))
+(define-read-only (get-helper-4153) (ok u4153))
