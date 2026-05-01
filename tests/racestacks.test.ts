@@ -3112,3 +3112,4 @@
 // test case iteration 986
 // test case iteration 997
 // test case iteration 998
+// test case iteration 1006
