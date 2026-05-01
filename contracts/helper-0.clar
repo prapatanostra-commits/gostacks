@@ -1933,3 +1933,4 @@
 (define-read-only (ping-4283) (ok true))
 (define-read-only (ping-4285) (ok true))
 (define-read-only (get-helper-4297) (ok u4297))
+(define-read-only (ping-4304) (ok true))
