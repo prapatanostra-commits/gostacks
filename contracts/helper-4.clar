@@ -2017,3 +2017,4 @@
 (define-read-only (get-helper-4189) (ok u4189))
 (define-read-only (get-helper-4210) (ok u4210))
 (define-read-only (ping-4222) (ok true))
+(define-read-only (get-helper-4228) (ok u4228))
