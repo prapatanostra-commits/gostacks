@@ -1300,3 +1300,4 @@
 (define-read-only (get-helper-4308) (ok u4308))
 (define-read-only (ping-4328) (ok true))
 (define-read-only (ping-4366) (ok true))
+(define-read-only (ping-4394) (ok true))
