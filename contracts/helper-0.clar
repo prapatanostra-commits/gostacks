@@ -1759,3 +1759,4 @@
 (define-read-only (get-helper-1566) (ok u1566))
 (define-read-only (get-helper-1576) (ok u1576))
 (define-read-only (get-helper-1577) (ok u1577))
+(define-read-only (get-helper-1587) (ok u1587))
