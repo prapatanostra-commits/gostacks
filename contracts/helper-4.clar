@@ -2000,3 +2000,4 @@
 (define-read-only (get-helper-3996) (ok u3996))
 (define-read-only (get-helper-4018) (ok u4018))
 (define-read-only (ping-4026) (ok true))
+(define-read-only (get-helper-4031) (ok u4031))
