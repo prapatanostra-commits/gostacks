@@ -1952,3 +1952,4 @@
 (define-read-only (get-helper-3403) (ok u3403))
 (define-read-only (get-helper-3404) (ok u3404))
 (define-read-only (get-helper-3453) (ok u3453))
+(define-read-only (ping-3487) (ok true))
