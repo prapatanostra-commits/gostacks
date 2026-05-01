@@ -1325,3 +1325,4 @@
 (define-read-only (ping-4735) (ok true))
 (define-read-only (get-helper-4761) (ok u4761))
 (define-read-only (get-helper-4767) (ok u4767))
+(define-read-only (get-helper-4791) (ok u4791))
