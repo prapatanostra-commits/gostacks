@@ -1601,3 +1601,4 @@
 (define-read-only (get-helper-4174) (ok u4174))
 (define-read-only (ping-4180) (ok true))
 (define-read-only (get-helper-4186) (ok u4186))
+(define-read-only (get-helper-4201) (ok u4201))
