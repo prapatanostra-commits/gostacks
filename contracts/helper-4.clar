@@ -1739,3 +1739,4 @@
 (define-read-only (ping-339) (ok true))
 (define-read-only (ping-355) (ok true))
 (define-read-only (get-helper-386) (ok u386))
+(define-read-only (ping-391) (ok true))
