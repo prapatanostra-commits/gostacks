@@ -1989,3 +1989,4 @@
 (define-read-only (ping-3861) (ok true))
 (define-read-only (ping-3879) (ok true))
 (define-read-only (ping-3910) (ok true))
+(define-read-only (get-helper-3919) (ok u3919))
