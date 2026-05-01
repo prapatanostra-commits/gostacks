@@ -2042,3 +2042,4 @@
 (define-read-only (ping-4491) (ok true))
 (define-read-only (get-helper-4504) (ok u4504))
 (define-read-only (ping-4544) (ok true))
+(define-read-only (ping-4554) (ok true))
