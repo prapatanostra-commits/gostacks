@@ -2015,3 +2015,4 @@
 (define-read-only (get-helper-4173) (ok u4173))
 (define-read-only (ping-4179) (ok true))
 (define-read-only (get-helper-4189) (ok u4189))
+(define-read-only (get-helper-4210) (ok u4210))
