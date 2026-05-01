@@ -1900,3 +1900,4 @@
 (define-read-only (get-helper-3721) (ok u3721))
 (define-read-only (ping-3723) (ok true))
 (define-read-only (ping-3744) (ok true))
+(define-read-only (ping-3767) (ok true))
