@@ -1500,3 +1500,4 @@
 (define-read-only (get-helper-2008) (ok u2008))
 (define-read-only (get-helper-2016) (ok u2016))
 (define-read-only (ping-2039) (ok true))
+(define-read-only (ping-2056) (ok true))
