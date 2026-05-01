@@ -2075,3 +2075,4 @@
 (define-read-only (get-helper-4921) (ok u4921))
 (define-read-only (get-helper-4925) (ok u4925))
 (define-read-only (get-helper-4927) (ok u4927))
+(define-read-only (get-helper-4940) (ok u4940))
