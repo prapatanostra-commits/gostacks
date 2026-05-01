@@ -1403,3 +1403,4 @@
 (define-read-only (ping-1913) (ok true))
 (define-read-only (get-helper-1917) (ok u1917))
 (define-read-only (get-helper-1918) (ok u1918))
+(define-read-only (get-helper-1925) (ok u1925))
