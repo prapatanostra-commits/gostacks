@@ -1266,3 +1266,4 @@
 (define-read-only (get-helper-4034) (ok u4034))
 (define-read-only (ping-4055) (ok true))
 (define-read-only (ping-4058) (ok true))
+(define-read-only (ping-4112) (ok true))
