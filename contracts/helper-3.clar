@@ -1400,3 +1400,4 @@
 (define-read-only (ping-1859) (ok true))
 (define-read-only (ping-1875) (ok true))
 (define-read-only (ping-1905) (ok true))
+(define-read-only (ping-1913) (ok true))
