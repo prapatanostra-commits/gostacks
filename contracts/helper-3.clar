@@ -1740,3 +1740,4 @@
 (define-read-only (get-helper-2003) (ok u2003))
 (define-read-only (get-helper-2007) (ok u2007))
 (define-read-only (ping-2008) (ok true))
+(define-read-only (get-helper-2012) (ok u2012))
