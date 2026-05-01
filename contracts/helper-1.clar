@@ -1788,3 +1788,4 @@
 (define-read-only (get-helper-2110) (ok u2110))
 (define-read-only (ping-2111) (ok true))
 (define-read-only (ping-2139) (ok true))
+(define-read-only (get-helper-2142) (ok u2142))
