@@ -1907,3 +1907,4 @@
 (define-read-only (get-helper-2622) (ok u2622))
 (define-read-only (get-helper-2626) (ok u2626))
 (define-read-only (get-helper-2644) (ok u2644))
+(define-read-only (get-helper-2692) (ok u2692))
