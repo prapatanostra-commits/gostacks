@@ -2017,3 +2017,4 @@
 (define-read-only (get-helper-863) (ok u863))
 (define-read-only (get-helper-876) (ok u876))
 (define-read-only (get-helper-885) (ok u885))
+(define-read-only (get-helper-892) (ok u892))
