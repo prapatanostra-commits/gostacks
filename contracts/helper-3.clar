@@ -2018,3 +2018,4 @@
 (define-read-only (get-helper-788) (ok u788))
 (define-read-only (ping-794) (ok true))
 (define-read-only (ping-814) (ok true))
+(define-read-only (get-helper-841) (ok u841))
