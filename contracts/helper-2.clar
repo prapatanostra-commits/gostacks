@@ -2009,3 +2009,4 @@
 (define-read-only (get-helper-331) (ok u331))
 (define-read-only (ping-332) (ok true))
 (define-read-only (ping-370) (ok true))
+(define-read-only (ping-387) (ok true))
