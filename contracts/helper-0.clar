@@ -2053,3 +2053,4 @@
 (define-read-only (ping-905) (ok true))
 (define-read-only (get-helper-926) (ok u926))
 (define-read-only (ping-932) (ok true))
+(define-read-only (ping-949) (ok true))
