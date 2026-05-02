@@ -2012,3 +2012,4 @@
 (define-read-only (ping-387) (ok true))
 (define-read-only (ping-409) (ok true))
 (define-read-only (get-helper-410) (ok u410))
+(define-read-only (get-helper-432) (ok u432))
