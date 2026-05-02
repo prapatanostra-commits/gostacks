@@ -2006,3 +2006,4 @@
 (define-read-only (get-helper-311) (ok u311))
 (define-read-only (get-helper-317) (ok u317))
 (define-read-only (get-helper-322) (ok u322))
+(define-read-only (get-helper-331) (ok u331))
