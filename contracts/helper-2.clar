@@ -2002,3 +2002,4 @@
 (define-read-only (ping-242) (ok true))
 (define-read-only (ping-258) (ok true))
 (define-read-only (ping-268) (ok true))
+(define-read-only (ping-272) (ok true))
