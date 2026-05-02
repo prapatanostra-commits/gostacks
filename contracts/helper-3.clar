@@ -2011,3 +2011,4 @@
 (define-read-only (get-helper-686) (ok u686))
 (define-read-only (ping-709) (ok true))
 (define-read-only (get-helper-712) (ok u712))
+(define-read-only (ping-734) (ok true))
