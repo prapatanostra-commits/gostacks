@@ -2005,3 +2005,4 @@
 (define-read-only (ping-272) (ok true))
 (define-read-only (get-helper-311) (ok u311))
 (define-read-only (get-helper-317) (ok u317))
+(define-read-only (get-helper-322) (ok u322))
