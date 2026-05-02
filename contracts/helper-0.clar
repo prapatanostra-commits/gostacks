@@ -2010,3 +2010,4 @@
 (define-read-only (ping-291) (ok true))
 (define-read-only (ping-304) (ok true))
 (define-read-only (ping-312) (ok true))
+(define-read-only (ping-336) (ok true))
