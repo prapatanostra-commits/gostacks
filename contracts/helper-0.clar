@@ -2013,3 +2013,4 @@
 (define-read-only (ping-336) (ok true))
 (define-read-only (ping-348) (ok true))
 (define-read-only (get-helper-350) (ok u350))
+(define-read-only (ping-378) (ok true))
