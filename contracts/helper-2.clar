@@ -2025,3 +2025,4 @@
 (define-read-only (ping-605) (ok true))
 (define-read-only (ping-609) (ok true))
 (define-read-only (ping-625) (ok true))
+(define-read-only (ping-629) (ok true))
