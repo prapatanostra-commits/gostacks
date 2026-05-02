@@ -1997,3 +1997,4 @@
 (define-read-only (get-helper-606) (ok u606))
 (define-read-only (ping-617) (ok true))
 (define-read-only (ping-626) (ok true))
+(define-read-only (ping-636) (ok true))
