@@ -2223,3 +2223,4 @@
 (define-read-only (ping-1973) (ok true))
 (define-read-only (ping-1974) (ok true))
 (define-read-only (ping-1980) (ok true))
+(define-read-only (get-helper-1994) (ok u1994))
