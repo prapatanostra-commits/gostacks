@@ -2009,3 +2009,4 @@
 (define-read-only (get-helper-673) (ok u673))
 (define-read-only (get-helper-680) (ok u680))
 (define-read-only (get-helper-686) (ok u686))
+(define-read-only (ping-709) (ok true))
