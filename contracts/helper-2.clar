@@ -2016,3 +2016,4 @@
 (define-read-only (ping-437) (ok true))
 (define-read-only (get-helper-439) (ok u439))
 (define-read-only (get-helper-446) (ok u446))
+(define-read-only (ping-448) (ok true))
