@@ -2012,3 +2012,4 @@
 (define-read-only (get-helper-796) (ok u796))
 (define-read-only (get-helper-829) (ok u829))
 (define-read-only (get-helper-847) (ok u847))
+(define-read-only (get-helper-855) (ok u855))
