@@ -1978,3 +1978,4 @@
 (define-read-only (ping-240) (ok true))
 (define-read-only (ping-283) (ok true))
 (define-read-only (ping-297) (ok true))
+(define-read-only (ping-308) (ok true))
