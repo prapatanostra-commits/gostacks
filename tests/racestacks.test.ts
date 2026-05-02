@@ -4299,3 +4299,4 @@
 // test case iteration 3003
 // test case iteration 3009
 // test case iteration 3010
+// test case iteration 3012
