@@ -1983,3 +1983,4 @@
 (define-read-only (ping-328) (ok true))
 (define-read-only (get-helper-352) (ok u352))
 (define-read-only (get-helper-382) (ok u382))
+(define-read-only (ping-384) (ok true))
