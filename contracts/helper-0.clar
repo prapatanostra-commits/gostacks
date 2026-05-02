@@ -2020,3 +2020,4 @@
 (define-read-only (get-helper-429) (ok u429))
 (define-read-only (get-helper-442) (ok u442))
 (define-read-only (ping-452) (ok true))
+(define-read-only (get-helper-468) (ok u468))
