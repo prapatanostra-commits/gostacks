@@ -2269,3 +2269,4 @@
 (define-read-only (ping-2708) (ok true))
 (define-read-only (ping-2749) (ok true))
 (define-read-only (get-helper-2771) (ok u2771))
+(define-read-only (ping-2799) (ok true))
