@@ -2007,3 +2007,4 @@
 (define-read-only (ping-738) (ok true))
 (define-read-only (ping-745) (ok true))
 (define-read-only (get-helper-760) (ok u760))
+(define-read-only (get-helper-780) (ok u780))
