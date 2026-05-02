@@ -2010,3 +2010,4 @@
 (define-read-only (get-helper-780) (ok u780))
 (define-read-only (ping-792) (ok true))
 (define-read-only (get-helper-796) (ok u796))
+(define-read-only (get-helper-829) (ok u829))
