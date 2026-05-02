@@ -2045,3 +2045,4 @@
 (define-read-only (get-helper-1200) (ok u1200))
 (define-read-only (get-helper-1226) (ok u1226))
 (define-read-only (ping-1254) (ok true))
+(define-read-only (get-helper-1256) (ok u1256))
