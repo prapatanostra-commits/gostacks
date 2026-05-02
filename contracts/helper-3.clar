@@ -2007,3 +2007,4 @@
 (define-read-only (get-helper-656) (ok u656))
 (define-read-only (get-helper-670) (ok u670))
 (define-read-only (get-helper-673) (ok u673))
+(define-read-only (get-helper-680) (ok u680))
