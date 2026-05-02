@@ -2019,3 +2019,4 @@
 (define-read-only (get-helper-885) (ok u885))
 (define-read-only (get-helper-892) (ok u892))
 (define-read-only (get-helper-894) (ok u894))
+(define-read-only (get-helper-911) (ok u911))
