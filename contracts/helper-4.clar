@@ -2089,3 +2089,4 @@
 (define-read-only (get-helper-67) (ok u67))
 (define-read-only (get-helper-68) (ok u68))
 (define-read-only (ping-76) (ok true))
+(define-read-only (get-helper-78) (ok u78))
