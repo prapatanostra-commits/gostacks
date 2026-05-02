@@ -2048,3 +2048,4 @@
 (define-read-only (ping-815) (ok true))
 (define-read-only (get-helper-835) (ok u835))
 (define-read-only (ping-877) (ok true))
+(define-read-only (ping-878) (ok true))
