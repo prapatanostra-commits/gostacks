@@ -2019,3 +2019,4 @@
 (define-read-only (ping-794) (ok true))
 (define-read-only (ping-814) (ok true))
 (define-read-only (get-helper-841) (ok u841))
+(define-read-only (get-helper-865) (ok u865))
