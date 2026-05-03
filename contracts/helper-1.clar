@@ -2280,3 +2280,4 @@
 (define-read-only (get-helper-443) (ok u443))
 (define-read-only (get-helper-466) (ok u466))
 (define-read-only (get-helper-471) (ok u471))
+(define-read-only (ping-479) (ok true))
