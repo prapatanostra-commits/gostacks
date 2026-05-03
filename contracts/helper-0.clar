@@ -2367,3 +2367,4 @@
 (define-read-only (ping-498) (ok true))
 (define-read-only (ping-505) (ok true))
 (define-read-only (ping-526) (ok true))
+(define-read-only (ping-539) (ok true))
