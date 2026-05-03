@@ -5196,3 +5196,4 @@
 // test case iteration 3471
 // test case iteration 3478
 // test case iteration 3483
+// test case iteration 3487
