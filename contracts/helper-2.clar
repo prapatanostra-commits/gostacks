@@ -2466,3 +2466,4 @@
 (define-read-only (get-helper-1906) (ok u1906))
 (define-read-only (get-helper-1913) (ok u1913))
 (define-read-only (get-helper-1936) (ok u1936))
+(define-read-only (ping-1976) (ok true))
