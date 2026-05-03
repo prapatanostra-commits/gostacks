@@ -2500,3 +2500,4 @@
 (define-read-only (get-helper-2380) (ok u2380))
 (define-read-only (ping-2394) (ok true))
 (define-read-only (ping-2400) (ok true))
+(define-read-only (get-helper-2427) (ok u2427))
