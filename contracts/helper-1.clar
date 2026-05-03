@@ -2335,3 +2335,4 @@
 (define-read-only (get-helper-1232) (ok u1232))
 (define-read-only (ping-1249) (ok true))
 (define-read-only (ping-1264) (ok true))
+(define-read-only (ping-1283) (ok true))
