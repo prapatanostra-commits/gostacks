@@ -2472,3 +2472,4 @@
 (define-read-only (get-helper-2003) (ok u2003))
 (define-read-only (get-helper-2006) (ok u2006))
 (define-read-only (get-helper-2016) (ok u2016))
+(define-read-only (ping-2036) (ok true))
