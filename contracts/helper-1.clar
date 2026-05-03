@@ -2245,3 +2245,4 @@
 (define-read-only (ping-4) (ok true))
 (define-read-only (get-helper-24) (ok u24))
 (define-read-only (get-helper-56) (ok u56))
+(define-read-only (ping-60) (ok true))
