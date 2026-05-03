@@ -2632,3 +2632,4 @@
 (define-read-only (get-helper-3345) (ok u3345))
 (define-read-only (get-helper-3353) (ok u3353))
 (define-read-only (get-helper-3363) (ok u3363))
+(define-read-only (get-helper-3364) (ok u3364))
