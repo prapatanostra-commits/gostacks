@@ -2470,3 +2470,4 @@
 (define-read-only (get-helper-1989) (ok u1989))
 (define-read-only (ping-1999) (ok true))
 (define-read-only (get-helper-2003) (ok u2003))
+(define-read-only (get-helper-2006) (ok u2006))
