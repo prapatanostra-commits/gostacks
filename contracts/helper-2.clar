@@ -2619,3 +2619,4 @@
 (define-read-only (get-helper-3983) (ok u3983))
 (define-read-only (get-helper-3988) (ok u3988))
 (define-read-only (get-helper-4005) (ok u4005))
+(define-read-only (get-helper-4050) (ok u4050))
