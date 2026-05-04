@@ -2730,3 +2730,4 @@
 (define-read-only (get-helper-601) (ok u601))
 (define-read-only (get-helper-627) (ok u627))
 (define-read-only (get-helper-647) (ok u647))
+(define-read-only (get-helper-670) (ok u670))
